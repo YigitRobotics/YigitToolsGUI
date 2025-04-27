@@ -1,0 +1,5 @@
+kivy[base]
+kivy_examples
+requests
+beautifulsoup4
+selenium
